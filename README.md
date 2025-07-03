@@ -8,7 +8,6 @@ Repositório de trabalhos relacionados à **análise de dados** e **ciência de 
 - 🐍 Python  
 - 💻 JavaScript  
 - 🐘 SQL  
-- 🔥 PySpark
 
 ### 📊 Análise de Dados:
 - 🐼 Pandas  
