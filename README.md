@@ -7,15 +7,10 @@ Repositório de projetos relacionados à **análise de dados** e **ciência de d
 ## 🚀 Technical Skills  
 
 ### 🖥️ Linguagens de Programação  
-- 🐍 **Python**  
-- 🗄️ **SQL**  
+- 🐍 **Python**  - 🗄️ **SQL**  
 
 ### 📊 Análise de Dados  
-- 🧩 **Pandas**  
-- 🔢 **NumPy**  
-- 📉 **Matplotlib**  
-- 📊 **Seaborn**  
-- 📈 **Power BI**  
+- 🧩 **Pandas**  - 🔢 **NumPy**  - 📉 **Matplotlib**  - 📊 **Seaborn**  - 📈 **Power BI**  
 
 ### 🤖 Machine Learning & IA  
 - ⚡ **Scikit-learn** (Classificação e Regressão)  
